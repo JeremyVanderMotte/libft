@@ -1,7 +1,8 @@
 # libft
 
 
-We had to create our own library with useful functions.
+We had to create our own library with useful functions.  
+The library is compiled using a Makefile in `.a` file.  
 This project regroup a lot of function of standard library in C.
 
 Note :  
